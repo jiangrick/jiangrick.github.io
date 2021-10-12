@@ -1,0 +1,21 @@
+body {
+    background: rgb(0, 195, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.assignment{
+   display:flex;
+   padding:10px;
+   margin:10px;
+   background: lightgray;
+} 
+.assignment img{
+    width:200px;
+    padding:10px;
+}
+
+
+h1{
+    text-align: center;
+    color :chartreuse
+    
+}
